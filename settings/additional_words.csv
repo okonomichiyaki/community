@@ -19,6 +19,7 @@ MySQL
 SQL
 data REST
 RabbitMQ
+Kotlin
 
 autowired
 localhost
@@ -29,10 +30,13 @@ tokenize
 productionize
 kanji
 Xbox
+tech
 
 barcode
 track scans
 depot ID
+to depot ID
+from depot ID
 pickable
 sku
 Secaucus
@@ -51,6 +55,9 @@ wave sorter induct
 sample sales
 hi folks
 hey folks
+styles
+pick list
+
 
 saru
 LipSurf
