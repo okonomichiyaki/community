@@ -31,6 +31,8 @@ productionize
 kanji
 Xbox
 tech
+queue
+queues
 
 barcode
 track scans
@@ -39,11 +41,11 @@ to depot ID
 from depot ID
 pickable
 sku
-Secaucus
-Rescache
-Whallocator
-Baywatch
-Panda
+secaucus
+rescache
+whallocator
+baywatch
+panda
 putaway
 to station ID
 logical rack count
