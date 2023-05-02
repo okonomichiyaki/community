@@ -19,7 +19,8 @@ MySQL
 SQL
 data REST
 RabbitMQ
-Kotlin
+kotlin
+PR
 
 autowired
 localhost
@@ -33,6 +34,8 @@ Xbox
 tech
 queue
 queues
+util
+assert equals
 
 barcode
 track scans
