@@ -29,6 +29,9 @@ October,october
 November,november
 December,december
 
+dependency,dependancy
+dependency,de pendency
+sync,sink
 else,elts
 queue,cue
 queue,cu
@@ -37,11 +40,32 @@ val,vow
 for,four
 pool,Pool
 rows,rose
+MySQL,my sequel
+boolean,bullion
+booleans,bullions
 
+barcode, bar cod
+barcode, bar code
+inventory,inventor
+inventory unit request status current,inventory unit requests that is current
+rescache,raise cash
+rescache,re's cash
+rescache,reds cash
+rescache,ras cash
 CX,sex
 fulfillment seq,fulfillment seek
+fulfillment,fulfilment
 splunk,spunk
 saleable,salable
+sku,skew
+skus,skees
+skus,scuse
+skus,skews
+inactive,in active
+to depot id,too deep lo id
+to depot id,too deep id
+panda,pandit
+ids,I dees
 
 hiragana,he dagon
 hiragana,head agana

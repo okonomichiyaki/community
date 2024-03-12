@@ -14,14 +14,19 @@ JUnit
 JSON
 AMQP
 REST API
-idempotent
-MySQL
 SQL
-data REST
+MongoDB
 RabbitMQ
 kotlin
-PR
+data REST
+JIRA
 
+int
+bool
+
+
+PR
+idempotent
 autowired
 localhost
 endpoint
@@ -62,6 +67,7 @@ hi folks
 hey folks
 styles
 pick list
+QA
 
 
 saru
